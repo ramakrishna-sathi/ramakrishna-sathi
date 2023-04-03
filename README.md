@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📕 I’m currently pursuing at Lovely Professional University 
+- 📕 I’m currently pursuing B-TECH at Lovely Professional University 
 - 🌱 I’m currently intrested in Front-End Developer
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: Instagram - @ rama_krishna-1
